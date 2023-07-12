@@ -1,4 +1,4 @@
-# Odin Recipes
+# odin-recipes
 
 TheOdinProject HTML and Git practice project.
 
